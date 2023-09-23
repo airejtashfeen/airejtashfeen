@@ -18,7 +18,7 @@
 - 📫 How to reach me: [airejtashfeen620@gmail.com](mailto:airejtashfeen620@gmail.com)
 
 
-- ⚡ Fun fact: I love to explore
+- ⚡ Fun fact: I love to learn new things!
 
 
 <h3 align="left">Connect with me:</h3>
