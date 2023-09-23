@@ -15,6 +15,8 @@
   </a>
 </p>
 
+- 🌱 I’m currently learning **React, Express, Node, MongoDB, Microsoft SQL.**
+
 - 📫 How to reach me: [airejtashfeen620@gmail.com](mailto:airejtashfeen620@gmail.com)
 
 
