@@ -15,7 +15,7 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **Flutter.**
+- 🌱 I’m currently doing **Leetcode and Cybersecurity.**
 
 - 📫 How to reach me: [airejtashfeen620@gmail.com](mailto:airejtashfeen620@gmail.com)
 
