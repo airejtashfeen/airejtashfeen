@@ -31,7 +31,7 @@
   <a href="https://fb.com/airejtashfeennn" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="airejtashfeennn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/its_airej" target="_blank">
+  <a href="https://instagram.com/airej_tashfeen" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_airej" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/airejtashfeen" target="_blank">
