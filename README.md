@@ -15,7 +15,7 @@
   </a>
 </p>
 
-- 🌱 I’m currently doing **Leetcode and Cybersecurity.**
+- 🌱 I’m currently doing **Machine Learning.**
 
 - 📫 How to reach me: [airejtashfeen620@gmail.com](mailto:airejtashfeen620@gmail.com)
 
