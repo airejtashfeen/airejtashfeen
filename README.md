@@ -15,7 +15,7 @@
   </a>
 </p>
 
-- 🌱 I’m currently doing **Machine Learning.**
+- 🌱 I’m currently doing **Swift with Web App Pen testing on the side.**
 
 - 📫 How to reach me: [airejtashfeen620@gmail.com](mailto:airejtashfeen620@gmail.com)
 
