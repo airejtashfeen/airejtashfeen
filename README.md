@@ -93,29 +93,9 @@
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
 </a>
-<!-- Wireshark -->
-<a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Wireshark_icon.svg" alt="Wireshark Logo" width="40" height="40"/>
-</a>
-
-<!-- Kali Linux -->
+  
 <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux Logo" width="40" height="40"/>
-</a>
-
-<!-- Metasploit -->
-<a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/metasploit/metasploit-icon.svg" alt="Metasploit Logo" width="40" height="40"/>
-</a>
-
-<!-- Burp Suite -->
-<a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Burp_Suite_logo.svg" alt="Burp Suite Logo" width="40" height="40"/>
-</a>
-
-<!-- Webots -->
-<a href="https://cyberbotics.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Webots.png" alt="Webots Logo" width="40" height="40"/>
 </a>
 
 </p>
