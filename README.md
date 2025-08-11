@@ -96,9 +96,6 @@
 <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux" width="40" height="40"/>
 </a>
-<a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
-  <img src="https://portswigger.net/burp/images/burp-icon.svg" alt="Burp Suite" width="40" height="40"/>
-</a>
 
 
 </p>
